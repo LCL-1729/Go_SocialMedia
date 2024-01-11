@@ -1,0 +1,1 @@
+A social media application that allows users to sign up, sign in, and post with token based authorization.
